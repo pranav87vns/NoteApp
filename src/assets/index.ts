@@ -1,3 +1,3 @@
-import LeftArrow from './leftarrow.svg'
+import LeftArrow from './leftarrow.svg';
 
-export default LeftArrow
+export default LeftArrow;

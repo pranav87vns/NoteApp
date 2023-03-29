@@ -1,16 +1,16 @@
-import { StyleSheet } from 'react-native'
+import {StyleSheet} from 'react-native';
 
 export const styles = StyleSheet.create({
   leftButton: {
     flex: 1,
     width: 5,
     height: 5,
-    resizeMode: 'contain'
+    resizeMode: 'contain',
   },
-  header:{ 
-    width: 200
+  header: {
+    width: 200,
   },
-  input:{
-    marginTop:20
+  input: {
+    marginTop: 20,
   },
-})
+});
